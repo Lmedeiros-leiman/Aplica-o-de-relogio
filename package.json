@@ -1,0 +1,15 @@
+{
+  "name": "micromodal-com-datejs",
+  "version": "1.0.0",
+  "description": "um pequeno aplicativo que utiliza micromodal e datejs para mostrar a data para o usuario.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43"
+  }
+}
